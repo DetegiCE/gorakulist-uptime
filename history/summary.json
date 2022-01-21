@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.gorakulist.kr",
     "slug": "goraku-list",
     "status": "down",
-    "uptime": "93.62%",
-    "uptimeDay": "88.31%",
-    "uptimeWeek": "93.62%",
-    "uptimeMonth": "93.62%",
-    "uptimeYear": "93.62%",
+    "uptime": "71.31%",
+    "uptimeDay": "30.29%",
+    "uptimeWeek": "71.31%",
+    "uptimeMonth": "71.31%",
+    "uptimeYear": "71.31%",
     "time": 949,
     "timeDay": 0,
     "timeWeek": 949,
     "timeMonth": 949,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2022-01-20": 23,
+      "2022-01-20": 1024,
       "2022-01-19": 145
     }
   },
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 102,
-    "timeDay": 137,
-    "timeWeek": 102,
-    "timeMonth": 102,
-    "timeYear": 102,
+    "time": 107,
+    "timeDay": 140,
+    "timeWeek": 107,
+    "timeMonth": 107,
+    "timeYear": 107,
     "dailyMinutesDown": {}
   },
   {
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 48,
-    "timeDay": 23,
-    "timeWeek": 48,
-    "timeMonth": 48,
-    "timeYear": 48,
+    "time": 44,
+    "timeDay": 20,
+    "timeWeek": 44,
+    "timeMonth": 44,
+    "timeYear": 44,
     "dailyMinutesDown": {}
   }
 ]
